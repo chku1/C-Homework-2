@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/vectortest.dir/vectortest.c.o CMakeFiles/vectortest.dir/vector.c.o -o vectortest 

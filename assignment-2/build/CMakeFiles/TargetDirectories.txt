@@ -1,0 +1,5 @@
+/home/chku/Desktop/assignment-2/build/CMakeFiles/vectortest.dir
+/home/chku/Desktop/assignment-2/build/CMakeFiles/hashsettest.dir
+/home/chku/Desktop/assignment-2/build/CMakeFiles/thesaurus-lookup.dir
+/home/chku/Desktop/assignment-2/build/CMakeFiles/edit_cache.dir
+/home/chku/Desktop/assignment-2/build/CMakeFiles/rebuild_cache.dir

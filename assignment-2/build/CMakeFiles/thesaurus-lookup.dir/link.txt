@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/thesaurus-lookup.dir/thesaurus-lookup.c.o CMakeFiles/thesaurus-lookup.dir/streamtokenizer.c.o CMakeFiles/thesaurus-lookup.dir/vector.c.o CMakeFiles/thesaurus-lookup.dir/hashset.c.o -o thesaurus-lookup 
